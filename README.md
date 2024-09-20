@@ -9,7 +9,7 @@ I analyzed coffee shop sales data using Microsoft Excel, applying techniques lik
 In this project, I analyzed hotel cancellations data to uncover trends and insights. I employed techniques such as pivot tables, data visualization, and analysis to explore factors influencing cancellations. The resulting dashboard provides a clear overview of key metrics. You can view the full analysis and dashboard by downloading the file.
 
 <!-- Add banner here -->
-![Banner](Pictures/HB_COM.jpg)
+![Banner](Pictures/HB_COM.png)
 <!-- Add buttons here -->
 
 ![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/navendu-pottekkat/awesome-readme?include_prereleases)
