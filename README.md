@@ -17,7 +17,7 @@ In this project, I analyzed hotel cancellations data to uncover trends and insig
 <!-- Add buttons here -->
 
 ## Coffee Powder Sales Analysis
-This project analyzes coffee powder sales data to reveal trends and insights driving purchasing behavior. Using pivot tables and data visualization, I explored key factors influencing sales performance. The resulting dashboard provides an overview of essential metrics for informed decision-making. Download the file to view the full analysis and dashboard.
+This project analyzes coffee powder sales data to reveal trends and insights driving purchasing behavior. Using pivot tables and data visualization, I explored key factors influencing sales performance. The resulting dashboard provides an overview of essential metrics for informed decision-making. Download the [file](coffeePowderOrdersProject.xlsx) to view the full analysis and dashboard.
 ![Banner](Pictures/CPowderSales.png)
 ![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/navendu-pottekkat/awesome-readme?include_prereleases)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
